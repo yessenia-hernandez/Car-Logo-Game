@@ -1,0 +1,22 @@
+#container {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  background: white;
+  border-style: solid;
+}
+body {
+    color: black;
+    background-color: #c0f9b6;
+    font-family: Impact;
+    Font-size: 25px;
+    Font-style: bold;
+}
+
+h2 {
+    color: black;
+    background-color: #c0f9b6;
+    font-family: Impact;
+    Font-size: 15px;
+    Font-style: bold;
+}
