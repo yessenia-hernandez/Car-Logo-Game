@@ -67,7 +67,7 @@ function checkLogos() {
         return "Correct!"
     } else if (document.getElementById("answer").value == "Porsche" && counter == 11) {
         Score++;
-        return "Porsche!"
+        return "Correct!"
     } else if (document.getElementById("answer").value == "Honda" && counter == 12) {
         Score++;
         return "Correct!"
